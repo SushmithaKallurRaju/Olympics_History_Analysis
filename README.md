@@ -1,0 +1,2 @@
+# Olympics_History_Analysis
+The objective of this project is to predict which athelete will win a sport while performing regression analysis on the training and test dataset.My team and I started off with cleaning the dataset using R libraries and continued performing data munging to replace the missing values.The data exploration analysis using graphs helped us choose better predition models for further analysis.We then utilized logistic regresion to predict the winners of various Olympics events while overcoming the challenges of chossing the right cut-off and p- values.
